@@ -29,6 +29,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   5    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)   | [SQL](Basic%20Select/Weather%20Observation%20Station%206.md)  |
 |   6    | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)                                     |           [SQL](Basic%20Select/Select%20By%20ID.md)           |
 |   7    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [SQL](Basic%20Select/Weather%20Observation%20Station%2012.md) |
-|   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                              |          [SQL](Basic%20Select/Employee%20Names.sql)           |
+|   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                              |           [SQL](Basic%20Select/Employee%20Names.md)           |
 
 
