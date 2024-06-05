@@ -1,7 +1,5 @@
 # SQL-Challenges-Solutions
 
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-
 
 <p align="center">  
 	<br>
@@ -30,5 +28,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   6    | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)                                     |           [SQL](Basic%20Select/Select%20By%20ID.md)           |
 |   7    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [SQL](Basic%20Select/Weather%20Observation%20Station%2012.md) |
 |   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                              |           [SQL](Basic%20Select/Employee%20Names.md)           |
+|   9    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                         |         [SQL](Basic%20Select/Employee%20Salaries.md)          |
+|   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                       |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
 
 
