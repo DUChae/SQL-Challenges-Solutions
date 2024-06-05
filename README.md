@@ -33,7 +33,11 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Aggregation
 
-| Number | Challenges                                                                                                     |                         Solutions                          |
-| :----: | -------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------: |
-|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](Aggreagtion/Weather%20Observation%20Station%2015.md) |
+| Number | Challenges                                                                                                     |                         Solutions                         |
+| :----: | -------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) |      [SQL](Weather%20Observation%20Station%2015.md)       |
+|   2    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)        |         [SQL](Japanese%20Cities'%20Attributes.md)         |
+|   3    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                   |     [SQL](Aggregation/Japanese%20Cities'%20Names.md)      |
+|   4    | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)   | [SQL](Aggregation/Weather%20Observation%20Station%203.md) |
+|   5    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)   | [SQL](Aggregation/Weather%20Observation%20Station%204.md) |
 
