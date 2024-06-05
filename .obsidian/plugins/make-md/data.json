@@ -41,9 +41,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Basic Select",
-    "//Tags",
     "Basic Select",
-    "/"
+    "/",
+    "//Tags",
+    "//Basic Select ",
+    "//Aggregation"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
