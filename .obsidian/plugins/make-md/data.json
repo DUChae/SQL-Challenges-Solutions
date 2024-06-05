@@ -42,12 +42,13 @@
   "expandedSpaces": [
     "//Basic Select",
     "//Basic Select ",
-    "//Aggregation",
-    "/",
     "////Aggregation 1.space",
     "//Basic Select1",
+    "//Tags",
+    "//Aggreagtion",
     "Basic Select",
-    "//Tags"
+    "Aggregation",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -57,7 +58,10 @@
   "folderFrameFile": "frames",
   "spacesFolder": "Tags",
   "hiddenFiles": [
-    "Basic Select"
+    "Basic Select",
+    "Aggreagtion",
+    "Aggregation/Weather Observation Station 15.md",
+    "Aggregation"
   ],
   "hiddenExtensions": [
     ".mdb",

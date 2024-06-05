@@ -33,7 +33,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Aggregation
 
-| Number | Challenges                                                                                                     | Solutions |
-| :----: | -------------------------------------------------------------------------------------------------------------- | :-------: |
-|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) |  [SQL]()  |
+| Number | Challenges                                                                                                     |                         Solutions                          |
+| :----: | -------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------: |
+|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](Aggreagtion/Weather%20Observation%20Station%2015.md) |
 
