@@ -42,8 +42,8 @@
   "expandedSpaces": [
     "//Basic Select",
     "//Tags",
-    "/",
-    "Basic Select"
+    "Basic Select",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
