@@ -11,7 +11,7 @@
 </p>
 
 ## Description
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank , LeetCode executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank  executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 
 ## Domains
@@ -46,9 +46,19 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   8    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                            |             [SQL](Aggregation/Average%20Population.md)              |
 |   9    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                      |        [SQL](Aggregation/Popular%20Density%20Difference.md)         |
 |   10   | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                |                 [SQL](Aggregation/Top%20Earners.md)                 |
+|   11   | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)        | [SQL](Aggregation/Average%20Population%20of%20Each%20Continent.md)  |
 
 ### Advanced Select
 | Number | Challenges                                                                              |                    Solutions                     |
 | :----: | --------------------------------------------------------------------------------------- | :----------------------------------------------: |
 |   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advanced%20Select/Type%20of%20Triangle.md) |
+
+### Basic Join
+
+| Number | Challenges                                                                       |                Solutions                |
+| :----: | -------------------------------------------------------------------------------- | :-------------------------------------: |
+|   1    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)   | [SQL](Basic%20Join/African%20Cities.md) |
+|   2    | [Popular Census](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](Basic%20Join/Popular%20Census.md) |
+
+
 
