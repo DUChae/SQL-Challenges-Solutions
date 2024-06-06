@@ -30,14 +30,25 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                              |           [SQL](Basic%20Select/Employee%20Names.md)           |
 |   9    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                         |         [SQL](Basic%20Select/Employee%20Salaries.md)          |
 |   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                       |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
+|   11   | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)          | [SQL](Basic%20Select/Weather%20Observation%20Station%204.md)  |
 
 ### Aggregation
 
-| Number | Challenges                                                                                                     |                         Solutions                         |
-| :----: | -------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
-|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) |      [SQL](Weather%20Observation%20Station%2015.md)       |
-|   2    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)        |         [SQL](Japanese%20Cities'%20Attributes.md)         |
-|   3    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                   |     [SQL](Aggregation/Japanese%20Cities'%20Names.md)      |
-|   4    | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)   | [SQL](Aggregation/Weather%20Observation%20Station%203.md) |
-|   5    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)   | [SQL](Aggregation/Weather%20Observation%20Station%204.md) |
+| Number | Challenges                                                                                                                        |                              Solutions                              |
+| :----: | --------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: |
+|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)                    |     [SQL](Aggregation/Weather%20Observation%20Station%2015.md)      |
+|   2    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)                           |        [SQL](Aggregation/Japanese%20Cities'%20Attributes.md)        |
+|   3    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                                      |          [SQL](Aggregation/Japanese%20Cities'%20Names.md)           |
+|   4    | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)                      |      [SQL](Aggregation/Weather%20Observation%20Station%203.md)      |
+|   5    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)                      |      [SQL](Aggregation/Weather%20Observation%20Station%204.md)      |
+|   6    | [Revising Aggregation-Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)         |        [SQL](Aggregation/Revising%20Aggregation-Averages.md)        |
+|   7    | [Revising Aggregation-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](Aggregation/Revising%20Aggregation-The%20Count%20Function.md) |
+|   8    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                            |             [SQL](Aggregation/Average%20Population.md)              |
+|   9    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                      |        [SQL](Aggregation/Popular%20Density%20Difference.md)         |
+|   10   | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                |                 [SQL](Aggregation/Top%20Earners.md)                 |
+
+### Advanced Select
+| Number | Challenges                                                                              |                    Solutions                     |
+| :----: | --------------------------------------------------------------------------------------- | :----------------------------------------------: |
+|   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advanced%20Select/Type%20of%20Triangle.md) |
 
