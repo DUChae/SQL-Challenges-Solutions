@@ -61,4 +61,14 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   2    | [Popular Census](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](Basic%20Join/Popular%20Census.md) |
 
 
+### LeetCode
 
+| Number | Challenges                                                                                                                              |                                Solutions                                |
+| :----: | --------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------: |
+|   1    | [1179.Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)                                  |            [SQL](LeetCode/Reformat%20Department%20Table.md)             |
+|   2    | [183.Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)                                    |            [SQL](LeetCode/Customer%20Who%20Never%20Order.md)            |
+|   3    | [181.Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](LeetCode/Employees%20Earning%20More%20Than%20Their%20Managers.md) |
+|   4    | [197.Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)                                                 |                 [SQL](LeetCode/Rising%20Temperature.md)                 |
+|   5    | [627.Swap Salary](https://leetcode.com/problems/swap-salary/description/)                                                               |                    [SQL](LeetCode/Swap%20Salary.md)                     |
+|   6    | [196.Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)                                       |             [SQL](LeetCode/Delete%20Duplicate%20Emails.md)              |
+|        | [184.Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)                                   |            [SQL](LeetCode/Department%20Highest%20Salary.md)             |
