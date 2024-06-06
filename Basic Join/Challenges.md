@@ -23,4 +23,21 @@ ORDER BY Challenges_created DESC, hacker_id
 ---
 
 
+With counter AS( <br/>
+    SELECT Hackers.hacker_id <br/>
+                , Hackers.name <br/>
+                ,COUNT( * ) AS Challenges_created <br/>
+    FROM Challenges  <br/>
+    INNER JOIN Hackers ON Challenges.hacker_id = Hackers.hacker_id <br/>
+    GROUP BY Hackers.hacker_id, hackers.name <br/>
+)<br/>
+
+SELECT counter.hacker_id <br/>
+            , counter.name <br/>
+            , counter.Challenges_created <br/>
+FROM counter <br/>
+WHERE Challenges_created=(SELECT MAX(Challenges_created) FROM counter) <br/>
+OR Challenges_created IN (SELECT Challenges_created FROM counter GROUP BY Challenges_created HAVING COUNT( * ) =1) <br/>
+ORDER BY counter.Challenges_created DESC, counter.hacker_id <br/>
+
  
