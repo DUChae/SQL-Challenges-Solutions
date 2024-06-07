@@ -8,10 +8,11 @@
     </a>
     <br>
     <br>
+    <a href="https://leetcode.com/u/duchae/"> <img height=100 src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> </a> <br> <br>
 </p>
 
 ## Description
-The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank  executed on MySQL environment compiled with helpful Resources & references related to the challenges.
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank and LeetCode executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
 
 ## Domains
@@ -74,3 +75,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   5    | [627.Swap Salary](https://leetcode.com/problems/swap-salary/description/)                                                               |                    [SQL](LeetCode/Swap%20Salary.md)                     |
 |   6    | [196.Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)                                       |             [SQL](LeetCode/Delete%20Duplicate%20Emails.md)              |
 |   7    | [184.Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)                                   |            [SQL](LeetCode/Department%20Highest%20Salary.md)             |
+|   8    | [190.Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)                                               |                  [SQL](LeetCode/Consecutive%20Numbers)                  |
