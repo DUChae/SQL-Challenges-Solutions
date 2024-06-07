@@ -20,3 +20,31 @@ ON E.DepartmentId =DHS.DepartmentId
 AND E.Salary=DHS.Max_salary
 <br/>
 INNER JOIN Department AS D ON E.DepartmentId=D.id
+
+
+---
+With Using Window
+
+SELECT ms.department AS Department
+<br/>
+,ms.name AS Employee
+<br/>
+,ms.salary AS Salary
+<br/>
+FROM
+<br/>
+(SELECT
+<br/>
+E.name
+<br/>
+,E.salary
+<br/>
+,D.name AS Department
+<br/>
+,MAX(salary) OVER (PARTITION BY Departmentid) AS max_salary
+<br/>
+FROM Employee AS E
+<br/>
+INNER JOIN Department AS D ON E.DepartmentId=D.id) ms
+<br/>
+WHERE ms.salary=ms.max_salary
