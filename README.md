@@ -32,6 +32,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                       |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
 |   11   | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)          | [SQL](Basic%20Select/Weather%20Observation%20Station%204.md)  |
 |   12   | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                       |               [SQL](Basic%20Join/Challenges.md)               |
+|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                       |              [SQL](Basic%20Join/The%20Report.md)              |
 
 ### Aggregation
 
