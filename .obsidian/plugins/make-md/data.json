@@ -47,7 +47,8 @@
     "//Tags",
     "//Aggreagtion",
     "Aggregation",
-    "/"
+    "/",
+    "//LeetCode"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
