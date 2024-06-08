@@ -35,6 +35,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   12   | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                                       |               [SQL](Basic%20Join/Challenges.md)               |
 |   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                       |              [SQL](Basic%20Join/The%20Report.md)              |
 |   14   | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%207.md)   |
+|   15   | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%208.md)   |
 
 ### Aggregation
 
