@@ -80,3 +80,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   7    | [184.Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)                                   |            [SQL](LeetCode/Department%20Highest%20Salary.md)             |
 |   8    | [190.Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)                                               |                [SQL](LeetCode/Consecutive%20Numbers.md)                 |
 |   9    | [185.Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)                           |         [SQL](LeetCode/Department%20Top%20Three%20Salaries.md)          |
+|   10   | [177.Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)                                                 |                [SQL](LeetCode/Nth%20Highest%20Salary.md)                |
