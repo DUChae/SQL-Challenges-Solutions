@@ -68,3 +68,24 @@ LIMIT N
 );
 <br/>
 END;
+
+---
+With Using LIMIT OFFSET
+<br/>
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+<br/>
+BEGIN
+<br/>
+SET N=N-1;
+<br/>
+RETURN (
+<br/>
+SELECT DISTINCT salary FROM Employee ORDER BY salary DESC
+<br/>
+LIMIT 1 OFFSET N
+
+  
+
+);
+
+END;
