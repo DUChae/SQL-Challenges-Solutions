@@ -47,7 +47,8 @@
     "//Tags",
     "//Aggreagtion",
     "Aggregation",
-    "/"
+    "/",
+    "Basic Select"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

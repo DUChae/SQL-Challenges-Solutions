@@ -19,25 +19,27 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Basic Select Challenges
 
-| Number | Challenges                                                                                                                     |                           Solutions                           |
-| :----: | ------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------: |
-|   1    | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)                                                     |              [SQL](Basic%20Select/Select-All.md)              |
-|   2    | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)                   | [SQL](Basic%20Select/Weather%20Observation%20Station%201.md)  |
-|   3    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)                         | [SQL](Basic%20Select/Revising%20The%20Select%20Query%20I.md)  |
-|   4    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)                      | [SQL](Basic%20Select/Revising%20The%20Select%20Query%20II.md) |
-|   5    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)                   | [SQL](Basic%20Select/Weather%20Observation%20Station%206.md)  |
-|   6    | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)                                                     |           [SQL](Basic%20Select/Select%20By%20ID.md)           |
-|   7    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)                 | [SQL](Basic%20Select/Weather%20Observation%20Station%2012.md) |
-|   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                                              |           [SQL](Basic%20Select/Employee%20Names.md)           |
-|   9    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                                         |         [SQL](Basic%20Select/Employee%20Salaries.md)          |
-|   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                                       |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
-|   11   | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)                          | [SQL](Basic%20Select/Weather%20Observation%20Station%204.md)  |
-|   12   | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                                       |               [SQL](Basic%20Join/Challenges.md)               |
-|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                       |              [SQL](Basic%20Join/The%20Report.md)              |
-|   14   | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%207.md)   |
-|   15   | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%208.md)   |
-|   16   | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%209.md)   |
-|   17   | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%205.md)   |
+| Number | Challenges                                                                                                                       |                           Solutions                           |
+| :----: | -------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------: |
+|   1    | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)                                                       |              [SQL](Basic%20Select/Select-All.md)              |
+|   2    | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)                     | [SQL](Basic%20Select/Weather%20Observation%20Station%201.md)  |
+|   3    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)                           | [SQL](Basic%20Select/Revising%20The%20Select%20Query%20I.md)  |
+|   4    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)                        | [SQL](Basic%20Select/Revising%20The%20Select%20Query%20II.md) |
+|   5    | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)                     | [SQL](Basic%20Select/Weather%20Observation%20Station%206.md)  |
+|   6    | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)                                                       |           [SQL](Basic%20Select/Select%20By%20ID.md)           |
+|   7    | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)                   | [SQL](Basic%20Select/Weather%20Observation%20Station%2012.md) |
+|   8    | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                                                |           [SQL](Basic%20Select/Employee%20Names.md)           |
+|   9    | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                                           |         [SQL](Basic%20Select/Employee%20Salaries.md)          |
+|   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                                         |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
+|   11   | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)                            | [SQL](Basic%20Select/Weather%20Observation%20Station%204.md)  |
+|   12   | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                                         |               [SQL](Basic%20Join/Challenges.md)               |
+|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                         |              [SQL](Basic%20Join/The%20Report.md)              |
+|   14   | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%207.md)   |
+|   15   | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%208.md)   |
+|   16   | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%209.md)   |
+|   17   | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%205.md)   |
+|   18   | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2010.md)  |
+|   19   | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2011.md)  |
 
 ### Aggregation
 
