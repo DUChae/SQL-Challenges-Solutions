@@ -61,6 +61,8 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   13   | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)                                  |               [SQL](Aggregation/Japan%20Population.md)                |
 |   14   | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)                                            |                  [SQL](Aggregation/The%20Blunder.md)                  |
 |   15   | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)        |       [SQL](Aggregation/Weather%20Observation%20Station%202.md)       |
+|   16   | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2013.md)       |
+|   17   | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2014.md)       |
 
 ### Advanced Select
 | Number | Challenges                                                                              |                    Solutions                     |
