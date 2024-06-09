@@ -43,19 +43,21 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Aggregation
 
-| Number | Challenges                                                                                                                        |                              Solutions                              |
-| :----: | --------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: |
-|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)                    |     [SQL](Aggregation/Weather%20Observation%20Station%2015.md)      |
-|   2    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)                           |        [SQL](Aggregation/Japanese%20Cities'%20Attributes.md)        |
-|   3    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                                      |          [SQL](Aggregation/Japanese%20Cities'%20Names.md)           |
-|   4    | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)                      |      [SQL](Aggregation/Weather%20Observation%20Station%203.md)      |
-|   5    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)                      |      [SQL](Aggregation/Weather%20Observation%20Station%204.md)      |
-|   6    | [Revising Aggregation-Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)         |        [SQL](Aggregation/Revising%20Aggregation-Averages.md)        |
-|   7    | [Revising Aggregation-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](Aggregation/Revising%20Aggregation-The%20Count%20Function.md) |
-|   8    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                            |             [SQL](Aggregation/Average%20Population.md)              |
-|   9    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                      |        [SQL](Aggregation/Popular%20Density%20Difference.md)         |
-|   10   | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                |                 [SQL](Aggregation/Top%20Earners.md)                 |
-|   11   | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)        | [SQL](Aggregation/Average%20Population%20of%20Each%20Continent.md)  |
+| Number | Challenges                                                                                                                            |                               Solutions                               |
+| :----: | ------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |
+|   1    | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)                        |      [SQL](Aggregation/Weather%20Observation%20Station%2015.md)       |
+|   2    | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)                               |         [SQL](Aggregation/Japanese%20Cities'%20Attributes.md)         |
+|   3    | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)                                          |           [SQL](Aggregation/Japanese%20Cities'%20Names.md)            |
+|   4    | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)                          |       [SQL](Aggregation/Weather%20Observation%20Station%203.md)       |
+|   5    | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)                          |       [SQL](Aggregation/Weather%20Observation%20Station%204.md)       |
+|   6    | [Revising Aggregation-Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)             |         [SQL](Aggregation/Revising%20Aggregation-Averages.md)         |
+|   7    | [Revising Aggregation-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)     |  [SQL](Aggregation/Revising%20Aggregation-The%20Count%20Function.md)  |
+|   8    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                                |              [SQL](Aggregation/Average%20Population.md)               |
+|   9    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                          |         [SQL](Aggregation/Popular%20Density%20Difference.md)          |
+|   10   | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                    |                  [SQL](Aggregation/Top%20Earners.md)                  |
+|   11   | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)            |  [SQL](Aggregation/Average%20Population%20of%20Each%20Continent.md)   |
+|   12   | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [SQL](Aggregation/Revising%20Aggregations%20-The%20Sum%20Function.md) |
+|   13   | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)                                  |               [SQL](Aggregation/Japan%20Population.md)                |
 
 ### Advanced Select
 | Number | Challenges                                                                              |                    Solutions                     |
