@@ -41,6 +41,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   18   | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2010.md)  |
 |   19   | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2011.md)  |
 
+
 ### Aggregation
 
 | Number | Challenges                                                                                                                            |                               Solutions                               |
@@ -58,6 +59,8 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   11   | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)            |  [SQL](Aggregation/Average%20Population%20of%20Each%20Continent.md)   |
 |   12   | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [SQL](Aggregation/Revising%20Aggregations%20-The%20Sum%20Function.md) |
 |   13   | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)                                  |               [SQL](Aggregation/Japan%20Population.md)                |
+|   14   | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)                                            |                  [SQL](Aggregation/The%20Blunder.md)                  |
+|   15   | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)        |       [SQL](Aggregation/Weather%20Observation%20Station%202.md)       |
 
 ### Advanced Select
 | Number | Challenges                                                                              |                    Solutions                     |
