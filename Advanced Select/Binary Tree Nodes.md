@@ -1,0 +1,1 @@
+p가 null이면 root

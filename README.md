@@ -67,9 +67,10 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   19   | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2017.md)       |
 
 ### Advanced Select
-| Number | Challenges                                                                              |                    Solutions                     |
-| :----: | --------------------------------------------------------------------------------------- | :----------------------------------------------: |
-|   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advanced%20Select/Type%20of%20Triangle.md) |
+| Number | Challenges                                                                                                |                     Solutions                     |
+| :----: | --------------------------------------------------------------------------------------------------------- | :-----------------------------------------------: |
+|   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                   | [SQL](Advanced%20Select/Type%20of%20Triangle.md)  |
+|   2    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.md) |
 
 ### Basic Join
 
