@@ -4,8 +4,9 @@
 	n/2*(n/2+1)
 
 SELECT 
-		(Case WHEN MOD(COUNT(LAT_N)),2=0
-					THEN
-		)
-FROM Station
-ORDER BY LAT_N
+FROM 
+            (SELECT  ROW_NUMBER() OVER (ORDER BY LAT_N) AS numbering
+                            ,COUNT( * ) OVER() AS n
+                            , LAT_N
+            FROM Station) sub
+
