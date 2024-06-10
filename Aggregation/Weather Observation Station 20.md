@@ -1,32 +1,20 @@
-홀수일 경우 
-	(n+1)/2
-짝수일 경우
-	n/2*(n/2+1)
+SELECT ROUND(S.LAT_N , 4)<br/>
+FROM Station S<br/>
+WHERE <br/>
+		(SELECT COUNT(LAT_N)<br/>
+		FROM Station<br/>
+		WHERE LAT_N<S.LAT_N<br/>
+		)<br/>
+		=<br/>
+		(SELECT COUNT(LAT_N) FROM STATION WHERE LAT_N>S.LAT_N)<br/>
+<br/>
 
-SELECT 
-FROM 
-            (SELECT  ROW_NUMBER() OVER (ORDER BY LAT_N) AS numbering
-                            ,COUNT( * ) OVER() AS n
-                            , LAT_N
-            FROM Station) sub
-
-With test AS
-            (SELECT  ROW_NUMBER() OVER (ORDER BY LAT_N) AS numbering
-                            ,COUNT(*) OVER() AS n
-                            , LAT_N
-            FROM Station) 
-            
-SELECT 
-            CASE WHEN n%2=1 THEN
-                                (SELECT LAT_N
-                                FROM test
-                                 WHERE numbering=(n+1)/2
-                                )
-                        ELSE
-                                (
-                                SELECT AVG(LAT_N)
-                                    FROM test
-                                    WHERE numbering IN((n/2) * ((n/2)+1) )
-                        END    )
-FROM test
-ORDER BY n
+---
+With using PERCENT_RANK()
+<br/>
+SELECT ROUND(LAT_N,4)<br/>
+FROM <br/>
+		(SELECT LAT_N,PERCENT_RANK() OVER (ORDER BY LAT_N ASC) AS R<br/>
+		FROM Station<br/>
+		)sub<br/>
+WHERE R=0.5
