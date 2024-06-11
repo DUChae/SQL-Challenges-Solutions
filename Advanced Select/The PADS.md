@@ -6,5 +6,7 @@ There are a total of [occupation_count] [occupation]s.
 3. 같은 수라면 알파벳순으로
 
 이니셜
-SELECT SUBSTRING(Occupation,1,1)
+SELECT CONCAT(name,'(',SUBSTRING(Occupation,1,1),')')
 FROM OCCUPATIONS
+ORDER BY name
+
