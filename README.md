@@ -77,6 +77,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   3    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)                      |      [SQL](Advanced%20Select/The%20PADS.md)       |
 |   4    | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)                |      [SQL](Advanced%20Select/Occupations.md)      |
 
+
 ### Basic Join
 
 | Number | Challenges                                                                       |                Solutions                |
