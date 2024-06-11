@@ -74,6 +74,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | :----: | --------------------------------------------------------------------------------------------------------- | :-----------------------------------------------: |
 |   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                   | [SQL](Advanced%20Select/Type%20of%20Triangle.md)  |
 |   2    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.md) |
+|   3    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)                      |      [SQL](Advanced%20Select/The%20PADS.md)       |
 
 ### Basic Join
 
