@@ -1,5 +1,5 @@
 # SQL-Challenges-Solutions
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDUChae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">  
 	<br>
@@ -76,6 +76,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   2    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.md) |
 |   3    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)                      |      [SQL](Advanced%20Select/The%20PADS.md)       |
 |   4    | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)                |      [SQL](Advanced%20Select/Occupations.md)      |
+|   5    | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)              |             [SQL](Advanced%20Select/)             |
 
 
 ### Basic Join
