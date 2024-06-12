@@ -33,7 +33,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   10   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                                         |      [SQL](Basic%20Select/Higher%20Than%2075%20Marks.md)      |
 |   11   | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)                            | [SQL](Basic%20Select/Weather%20Observation%20Station%204.md)  |
 |   12   | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)                                         |               [SQL](Basic%20Join/Challenges.md)               |
-|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                         |              [SQL](Basic%20Join/The%20Report.md)              |
 |   14   | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%207.md)   |
 |   15   | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%208.md)   |
 |   16   | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%209.md)   |
@@ -56,18 +55,17 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   8    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                                |              [SQL](Aggregation/Average%20Population.md)               |
 |   9    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                          |         [SQL](Aggregation/Popular%20Density%20Difference.md)          |
 |   10   | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                    |                  [SQL](Aggregation/Top%20Earners.md)                  |
-|   11   | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)            |  [SQL](Aggregation/Average%20Population%20of%20Each%20Continent.md)   |
-|   12   | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [SQL](Aggregation/Revising%20Aggregations%20-The%20Sum%20Function.md) |
-|   13   | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)                                  |               [SQL](Aggregation/Japan%20Population.md)                |
-|   14   | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)                                            |                  [SQL](Aggregation/The%20Blunder.md)                  |
-|   15   | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)        |       [SQL](Aggregation/Weather%20Observation%20Station%202.md)       |
-|   16   | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2013.md)       |
-|   17   | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2014.md)       |
-|   18   | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2016.md)       |
-|   19   | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2017.md)       |
-|   20   | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2018.md)       |
-|   21   | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2019.md)       |
-|   22   | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2020.md)       |
+|   11   | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [SQL](Aggregation/Revising%20Aggregations%20-The%20Sum%20Function.md) |
+|   12   | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true)                                  |               [SQL](Aggregation/Japan%20Population.md)                |
+|   13   | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true)                                            |                  [SQL](Aggregation/The%20Blunder.md)                  |
+|   14   | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true)        |       [SQL](Aggregation/Weather%20Observation%20Station%202.md)       |
+|   15   | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2013.md)       |
+|   16   | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2014.md)       |
+|   17   | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2016.md)       |
+|   18   | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2017.md)       |
+|   19   | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2018.md)       |
+|   20   | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2019.md)       |
+|   21   | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true)      |      [SQL](Aggregation/Weather%20Observation%20Station%2020.md)       |
 
 ### Advanced Select
 | Number | Challenges                                                                                                |                     Solutions                     |
@@ -82,10 +80,13 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Basic Join
 
-| Number | Challenges                                                                       |                Solutions                |
-| :----: | -------------------------------------------------------------------------------- | :-------------------------------------: |
-|   1    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)   | [SQL](Basic%20Join/African%20Cities.md) |
-|   2    | [Popular Census](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](Basic%20Join/Popular%20Census.md) |
+| Number | Challenges                                                                                                                 |                              Solutions                              |
+| :----: | -------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: |
+|   1    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)                                             |               [SQL](Basic%20Join/African%20Cities.md)               |
+|   2    | [Popular Census](https://www.hackerrank.com/challenges/asian-population/problem)                                           |               [SQL](Basic%20Join/Popular%20Census.md)               |
+|   3    | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)                              |              [SQL](Basic%20Join/Top%20Competitors.md)               |
+|   4    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](Basic%20Join/Average%20Population%20of%20Each%20Continent.md) |
+|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                   |                 [SQL](Basic%20Join/The%20Report.md)                 |
 
 
 ### LeetCode
