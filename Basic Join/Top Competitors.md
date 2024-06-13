@@ -25,3 +25,5 @@ Challenges
 | challenge_id     | Integer |
 | hacker_id        | Integer |
 | difficulty_level | Integer |
+
+
