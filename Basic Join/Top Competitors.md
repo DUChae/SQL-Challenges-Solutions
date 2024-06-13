@@ -26,4 +26,13 @@ Challenges
 | hacker_id        | Integer |
 | difficulty_level | Integer |
 
-
+SELECT S.hacker_id <br/>
+            , H.name<br/>
+FROM Submissions AS S<br/>
+        INNER JOIN Challenges AS C ON C.challenge_id=S.challenge_id<br/>
+        INNER JOIN Difficulty AS D ON C.difficulty_level = D.difficulty_level<br/>
+        INNER JOIN Hackers AS H ON H.hacker_id=S.hacker_id<br/>
+WHERE S.score=D.score<br/>
+GROUP BY S.hacker_id, H.name<br/>
+HAVING COUNT(S.challenge_id)>1<br/>
+ORDER BY COUNT(S.hacker_id) DESC, S.hacker_id
