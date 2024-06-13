@@ -3,3 +3,25 @@
 
 테이블 
 Hackers, Difficulty , Challenges, Submissions
+
+Hackers
+
+| Column    | Type    |
+| --------- | ------- |
+| hacker_id | Integer |
+| name      | String  |
+
+Difficulty
+
+| Column           | Type        |
+| ---------------- | --------- |
+| difficulty_level | Int   er    |
+| score        Integer   egerg   |
+
+Challenges
+
+| Column           | Type    |
+| ---------------- | ------- |
+| challenge_id     | Integer |
+| hacker_id        | Integer |
+| difficulty_level | Integer |
