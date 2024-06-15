@@ -39,6 +39,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   17   | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%205.md)   |
 |   18   | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2010.md)  |
 |   19   | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2011.md)  |
+|   20   | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)                 |        [SQL](Basic%20Join/Ollivander's%20Inventroy.md)        |
 
 
 ### Aggregation
