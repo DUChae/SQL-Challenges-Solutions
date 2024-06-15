@@ -112,3 +112,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   9    | [185.Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)                           |         [SQL](LeetCode/Department%20Top%20Three%20Salaries.md)          |
 |   10   | [177.Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)                                                 |                [SQL](LeetCode/Nth%20Highest%20Salary.md)                |
 |   11   | [595.Big Countries](https://leetcode.com/problems/big-countries)                                                                        |                   [SQL](LeetCode/Big%20Countries.md)                    |
+|   12   | [620.Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                               |                [SQL](LeetCode/Not%20Boring%20Movies.md)                 |
