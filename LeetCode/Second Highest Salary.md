@@ -1,9 +1,9 @@
-SELECT(SELECT salary
+SELECT MAX(salary) AS SecondHighestSalary
 <br/>
 FROM Employee
 <br/>
-ORDER BY salary DESC
+WHERE salary < (SELECT MAX(salary)
 <br/>
-LIMIT 1
+FROM Employee
 <br/>
-OFFSET 1) AS SecondHighestSalary
+)

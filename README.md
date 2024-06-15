@@ -116,3 +116,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   13   | [175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                                 |                [SQL](LeetCode/Combine%20Two%20Tables.md)                |
 |   14   | [596.Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                             |         [SQL](LeetCode/Classes%20More%20Than%205%20Students.md)         |
 |   15   | [176.Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)                                           |              [SQL](LeetCode/Second%20Highest%20Salary.md)               |
+|   16   | [1407.Top Travellers](https://leetcode.com/problems/top-travellers/description/?envType=problem-list-v2&envId=e97a9e5m)                 |                   [SQL](LeetCode/Top%20Travellers.md)                   |
