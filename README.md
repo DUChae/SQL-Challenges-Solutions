@@ -90,6 +90,12 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   5    | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                   |                 [SQL](Basic%20Join/The%20Report.md)                 |
 |   6    | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)                 |            [SQL](Basic%20Join/Contest%20Leaderboard.md)             |
 
+### Advanced Join
+
+| Number | Challenges                                                                               |              Solutions               |
+| :----: | ---------------------------------------------------------------------------------------- | :----------------------------------: |
+|   1    | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | [SQL](Advanced%20Join/Placements.md) |
+
 
 ### LeetCode
 
