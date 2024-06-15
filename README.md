@@ -114,3 +114,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   11   | [595.Big Countries](https://leetcode.com/problems/big-countries)                                                                        |                   [SQL](LeetCode/Big%20Countries.md)                    |
 |   12   | [620.Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                               |                [SQL](LeetCode/Not%20Boring%20Movies.md)                 |
 |   13   | [175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                                 |                [SQL](LeetCode/Combine%20Two%20Tables.md)                |
+|   14   | [596.Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)                             |         [SQL](LeetCode/Classes%20More%20Than%205%20Students.md)         |
