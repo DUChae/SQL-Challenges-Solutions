@@ -1,7 +1,7 @@
 ## Description
 
 Determining wand
-minimum of gold gallons, non-evil, high power , age
+minimum coins_needed, non-evil, high power , age
 
 query : id, age, coins_needed, power of the wands
 sort : power DESC, age DESC
