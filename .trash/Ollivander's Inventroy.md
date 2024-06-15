@@ -22,3 +22,13 @@ Wands_Property
 |  code   | Int     |
 |   age   | Int<br> |
 | is_evil | Int     |
+
+
+SELECT W.id
+            ,P.age
+            ,W.coins_needed
+            ,W.power
+FROM Wands AS W
+        INNER JOIN Wands_property AS P ON W.code= P.code
+WHERE is_evil=0
+ORDER BY W.power DESC, P.age DESC

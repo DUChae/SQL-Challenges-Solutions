@@ -39,7 +39,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   17   | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)   |  [SQL](Basic%20Join/Weather%20Observation%20Station%205.md)   |
 |   18   | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2010.md)  |
 |   19   | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |  [SQL](Basic%20Join/Weather%20Observation%20Station%2011.md)  |
-|   20   | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true)                 |        [SQL](Basic%20Join/Ollivander's%20Inventroy.md)        |
+
 
 
 ### Aggregation
@@ -87,7 +87,8 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   2    | [Popular Census](https://www.hackerrank.com/challenges/asian-population/problem)                                           |               [SQL](Basic%20Join/Popular%20Census.md)               |
 |   3    | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)                              |              [SQL](Basic%20Join/Top%20Competitors.md)               |
 |   4    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](Basic%20Join/Average%20Population%20of%20Each%20Continent.md) |
-|   13   | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                   |                 [SQL](Basic%20Join/The%20Report.md)                 |
+|   5    | [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)                                   |                 [SQL](Basic%20Join/The%20Report.md)                 |
+|   6    | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)                 |            [SQL](Basic%20Join/Contest%20Leaderboard.md)             |
 
 
 ### LeetCode
