@@ -113,3 +113,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   10   | [177.Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)                                                 |                [SQL](LeetCode/Nth%20Highest%20Salary.md)                |
 |   11   | [595.Big Countries](https://leetcode.com/problems/big-countries)                                                                        |                   [SQL](LeetCode/Big%20Countries.md)                    |
 |   12   | [620.Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                               |                [SQL](LeetCode/Not%20Boring%20Movies.md)                 |
+|   13   | [175.Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)                                                 |                [SQL](LeetCode/Combine%20Two%20Tables.md)                |
