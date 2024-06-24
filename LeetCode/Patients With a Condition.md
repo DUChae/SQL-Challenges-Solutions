@@ -48,4 +48,6 @@ SELECT patient_id
 <br/>
 FROM Patients
 <br/>
-WHERE conditions LIKE '%DIAB1%'
+WHERE conditions LIKE '% DIAB1%'
+<br/>
+OR conditions LIKE 'DIAB1%'
