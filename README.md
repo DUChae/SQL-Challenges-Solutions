@@ -118,3 +118,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   15   | [176.Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)                                           |              [SQL](LeetCode/Second%20Highest%20Salary.md)               |
 |   16   | [1407.Top Travellers](https://leetcode.com/problems/top-travellers/description/?envType=problem-list-v2&envId=e97a9e5m)                 |                   [SQL](LeetCode/Top%20Travellers.md)                   |
 |   17   | [1527.Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=problem-list-v2&envId=e97a9e5m)       |           [SQL](LeetCode/Patients%20With%20a%20Condition.md)            |
+|   18   |                                                                                                                                         |                                                                         |
