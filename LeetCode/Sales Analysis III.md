@@ -64,7 +64,7 @@ The product with id 2 was sold in the spring of 2019 but was also sold after the
 The product with id 3 was sold after spring 2019.
 We return only product 1 as it is the product that was only sold in the spring of 2019.
 
-## Solution
+## My Solution
 SELECT P.product_id, P.product_name
 
 FROM Product AS P
@@ -78,3 +78,8 @@ AND P.product_id NOT IN(SELECT product_id
 FROM Sales
 
 WHERE sale_date<'2019-01-01' OR sale_date>'2019-03-31')
+
+***But it's wrong*** 
+
+
+## Solution
