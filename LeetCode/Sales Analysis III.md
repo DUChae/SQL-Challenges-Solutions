@@ -83,3 +83,12 @@ WHERE sale_date<'2019-01-01' OR sale_date>'2019-03-31')
 
 
 ## Solution
+SELECT P.product_id, P.product_name
+
+FROM Product AS P
+
+INNER JOIN Sales AS S ON P.product_id = S.product_id
+
+GROUP BY S.product_id
+
+HAVING MIN(S.sale_date) >= "2019-01-01" AND MAX(S.sale_date) <= "2019-03-31"
