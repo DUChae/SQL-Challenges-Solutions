@@ -121,3 +121,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |   18   | [1667.Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=problem-list-v2&envId=e97a9e5m)     |             [SQL](LeetCode/Fix%20Names%20in%20a%20Table.md)             |
 |   19   | [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                                           |                [SQL](LeetCode/Sales%20Analysis%20III.md)                |
 |   20   | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                                                        |              [SQL](LeetCode/Game%20Play%20Analysis%20I.md)              |
+|   21   | [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                               |             [SQL](LeetCode/Rearrange%20Products%20Table.md)             |
