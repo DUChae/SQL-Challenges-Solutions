@@ -39,7 +39,7 @@ Customer table:
 | Jane |
 | Bill |
 | Zack |
-+------+
++------
 
 # Solution
 SELECT name
